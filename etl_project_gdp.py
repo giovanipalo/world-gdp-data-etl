@@ -1,7 +1,3 @@
-# Code for ETL operations on Country-GDP data
-
-# Importing the required libraries
-
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
