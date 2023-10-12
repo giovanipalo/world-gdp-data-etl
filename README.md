@@ -1,4 +1,4 @@
-# Projeto de Pipeline ETL para Dados de PIB de Países
+# World GDP Data ETL
 
 Este projeto é um exemplo de um pipeline ETL (Extração, Transformação e Carregamento) que lida com dados de PIB de vários países. O objetivo principal é criar um script que pode extrair os dados de PIB de uma fonte da web, realizar transformações necessárias e carregar os dados em um arquivo CSV e em um banco de dados SQLite. O código também inclui funcionalidade de registro de progresso em um arquivo de log.
 
